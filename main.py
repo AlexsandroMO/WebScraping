@@ -1,9 +1,6 @@
-!pip
-install
-unidecode
+!pip install unidecode
 
 ##Acesso Cooredenadas
-
 
 import pandas as pd
 import numpy as np
