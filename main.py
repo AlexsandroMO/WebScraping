@@ -1,6 +1,6 @@
 #https://financeone.com.br/moedas/conversor-de-moedas
 
-!pip install unidecode
+#!pip install unidecode
 
 ##Acesso Cooredenadas
 
